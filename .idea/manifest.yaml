@@ -1,0 +1,5 @@
+application:
+  - name: reddy-test
+    memory: 64M
+    instances: 1
+    random-route: false
